@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template lang="pug">
-div(class="flex justify-center items-center relative my-20 gap-20")
-  Link(link='' link-text='Linkedin')
-  Link(link='' link-text='Instagram')
+div(class="flex justify-center items-center relative mt-20 gap-20")
+  Link(link='https://www.linkedin.com/in/tim-hoover/' link-text='Linkedin')
+  Link(link='https://www.instagram.com/texas_tim_/' link-text='Instagram')
 </template>
