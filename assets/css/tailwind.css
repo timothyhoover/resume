@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #04091b;
+  color: #ffff;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #dadde7;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 1.2;
+  color: #dadde7;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 1.2;
+  color: #dadde7;
+}
+
+h4 {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #dadde7;
+}
+
+p {
+  color: #dadde7;
+  font-weight: 300;
+}
