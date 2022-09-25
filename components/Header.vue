@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template lang="pug">
-div(class="flex flex-col lg:flex-row justify-center lg:justify-between lg:space-x-5 items-center w-full")
+header(class="flex flex-col lg:flex-row justify-center lg:justify-between lg:space-x-5 items-center w-full")
   Avatar
   div(class="text-center lg:text-left")
     h1(class="text-3xl lg:text-4xl") Tim Hoover

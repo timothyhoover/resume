@@ -7,6 +7,8 @@ About
 Divider
 Experience
 Divider
+Education
+Divider
 Skills
 Divider
 Portfolio
