@@ -6,7 +6,7 @@ defineProps(['company', 'role', 'time', 'logo', 'location'])
 div(class="flex items-center space-x-5 w-full")
   Logo(:logo="logo")
   div
-    div(class="flex items-center space-x-2")
+    div(class="flex items-center gap-x-2 flex-wrap")
       h4 {{ company }}
       slot(name='website')
     p(class="text-sm font-light") {{ location }}

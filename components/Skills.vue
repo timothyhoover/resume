@@ -3,7 +3,7 @@
 <template lang="pug">
 section
   h2(class="mb-5") Skills
-  main(class="grid grid-cols-3 lg:grid-cols-6 gap-5")
+  main(class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-5")
     Skill(skill='JavaScript')
     Skill(skill='TypeScript')
     Skill(skill='HTML')

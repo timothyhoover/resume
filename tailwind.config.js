@@ -15,6 +15,9 @@ module.exports = {
       fontFamily: {
         sans: ['Outfit', 'sans-serif']
       },
+      screens: {
+        xs: '375px'
+      },
       colors: {
         primary: '#37456c',
         'primary-blue': '#1055ea',
