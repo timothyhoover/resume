@@ -40,7 +40,7 @@ dialog(
   :open='showModal'
   class='fixed top-0 left-0 z-50 flex items-center justify-center w-full h-full p-0 bg-black bg-opacity-80'
 )
-  div(ref='modalRef' class='xs:max-w-screen-sm w-[600px] px-app z-40')
+  div(ref='modalRef' class='xs:max-w-screen-sm w-[600px] px-5 z-40')
     div(class='rounded-md overflow-hidden shadow-xl bg-primary-white')
       header(
         class='p-5 text-base xs:text-lg font-medium bg-primary text-white line-clamp-1'
