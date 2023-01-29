@@ -1,10 +1,10 @@
 <script setup>
 useHead({
-  title: 'Tim Hoover Portfolio Site',
+  title: 'Tim Hoover | Software Engineer',
   meta: [
     { charset: 'utf-8' },
     {
-      name: 'Tim Hoover Portfolio Site',
+      name: 'Tim Hoover | Software Engineer',
       content: 'Resume'
     }
   ],
