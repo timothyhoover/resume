@@ -5,6 +5,7 @@ import Blurock from '@/assets/img/blurock.png'
 import Workout from '@/assets/img/workout.png'
 import Evaly from '@/assets/img/evaly.png'
 import Reddit from '@/assets/img/reddit.png'
+import FMRSearchKit from '@/assets/img/fmr-searchkit.png'
 </script>
 
 <template lang="pug">
@@ -15,7 +16,7 @@ section
   main(class='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5')
     Project(:src='Porter' link='https://www.orderwithporter.com')
     Project(:src='TopicTalk' link='https://www.topictalkingles.com')
-    Project(:src='Blurock' link='https://www.blurockband.com')
+    Project(:src='FMRSearchKit' link='https://github.com/doug-patterson/FMR-SearchKit-React')
     Project(:src='Workout' link='https://workout-tracker-th.netlify.app')
     Project(:src='Evaly' link='https://evaly-64cb8.web.app/')
     Project(:src='Reddit' link='https://reddit-clone-wine.vercel.app/')

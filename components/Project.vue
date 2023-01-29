@@ -4,5 +4,5 @@ defineProps(['src', 'link'])
 
 <template lang="pug">
 a(:href='link' target="_blank" class="flex items-center rounded-md shadow-md bg-white overflow-hidden")
-  img(:src='src')
+  img(class='w-full h-full' :src='src')
 </template>
