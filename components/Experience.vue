@@ -54,7 +54,7 @@ const jobs = [
       'Achieved label deadline goals which resulted in strong trust with the A&R department and more creative control for our team.',
       'Actively networked outside of the workplace and used mixed network-building methods, such as social media targeting and industry events, to accomplish revenue goals.',
       'Made a competitive referral scheme by paying our brand ambassadors 20% of the business they referred.',
-      'Successfully pitched our clients to Universal Music and successfully secured a deal in excess of £100,000.'
+      'Successfully pitched our clients to Universal Music and secured a deal in excess of £100,000.'
     ]
   }
 ]
