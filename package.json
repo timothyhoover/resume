@@ -8,8 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^6.3.0",
-    "nuxt": "3.1.1"
+    "@nuxtjs/tailwindcss": "^6.4.0",
+    "nuxt": "3.2.0"
   },
   "dependencies": {
     "@vueuse/core": "^9.11.1",

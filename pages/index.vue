@@ -1,4 +1,5 @@
 <script setup>
+import THLogo from '../assets/img/th-logo.png'
 useHead({
   title: 'Tim Hoover | Software Engineer',
   meta: [
@@ -6,6 +7,10 @@ useHead({
     {
       name: 'Tim Hoover | Software Engineer',
       content: 'Resume'
+    },
+    {
+      name: 'og:image',
+      content: THLogo
     }
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]

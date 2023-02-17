@@ -1,7 +1,7 @@
 <script setup>
 import PorterLogo from '@/components/PorterLogo.vue'
 import UniversalLogo from '@/components/UniversalLogo.vue'
-import WordpressLogo from '@/components/WordpressLogo.vue'
+import THLogo from '@/components/THLogo.vue'
 
 const jobs = [
   {
@@ -30,7 +30,7 @@ const jobs = [
     company: 'Freelance',
     role: 'Wed Developer',
     time: '2018 - 2021',
-    logo: WordpressLogo,
+    logo: THLogo,
     location: 'Madrid, Spain',
     highlights: [
       'Carried out UX / UI strategy for high-profile social media influencers (50k+ followers) such as the Lobxs sports group led by Maigua Ojeda - lobxs.com',
