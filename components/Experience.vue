@@ -33,13 +33,12 @@ const jobs = [
     logo: THLogo,
     location: 'Madrid, Spain',
     highlights: [
-      'Carried out UX / UI strategy for high-profile social media influencers (50k+ followers) such as the Lobxs sports group led by Maigua Ojeda - lobxs.com',
+      'Carried out UX / UI strategy for high-profile social media influencers (50k+ followers) such as the Lobxs sports group led by Maigua Ojeda - lobxs.com. Migrated site to Next.js/StrapiCMS. ',
       'Rebuilt real estate websites for both developers and estate agents improving their brand identity.',
       'Led the SEO strategy and implementation for peaceofmindmadrid.com',
-      'Created code to improve user experience on the website',
+      'Carried out Stripe and WooCommerce integrations',
       "Implemented design changes to improve the website's appearance",
-      'Wrote code to improve website speed and performance',
-      'Design / UX for www.topictalkingles.com'
+      'Design / UX for www.topictalkingles.com (Nuxt.js/Vue.js)'
     ]
   },
   {
